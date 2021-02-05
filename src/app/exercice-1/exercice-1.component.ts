@@ -10,14 +10,16 @@ export class Exercice1Component implements OnInit {
   // Peut-être que cela vous sera utile pour votre directive ;)
   // (Il vous faudra bien sûr le déplacer dans celle-ci)
 
-  // @HostListener('window:click', ['$event']) windowClick($event) {
-  //   console.log($event);
-  // }
+ 
 
   constructor() {
   }
 
   ngOnInit() {
+
+    
+
+   
   }
 
 }
